@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Voditels>
+  <Voditel>
+    <idv>1</idv>
+    <fam>Иванов</fam>
+    <name>Пётр</name>
+    <otch>Михайлович</otch>
+    <staz>3 года</staz>
+  </Voditel>
+  <Voditel>
+    <idv>2</idv>
+    <fam>Петров</fam>
+    <name>Александр</name>
+    <otch>Сергеевич</otch>
+    <staz>5 лет</staz>
+  </Voditel>
+  <Voditel>
+    <idv>3</idv>
+    <fam>Сидоров</fam>
+    <name>Иван</name>
+    <otch>Александрович</otch>
+    <staz>2 года</staz>
+  </Voditel>
+  <Voditel>
+    <idv>4</idv>
+    <fam>Козлов</fam>
+    <name>Дмитрий</name>
+    <otch>Николаевич</otch>
+    <staz>7 лет</staz>
+  </Voditel>
+  <Voditel>
+    <idv>5</idv>
+    <fam>Белов</fam>
+    <name>Антон</name>
+    <otch>Владимирович</otch>
+    <staz>4 года</staz>
+  </Voditel>
+  <Voditel>
+    <idv>6</idv>
+    <fam>Тихонов</fam>
+    <name>Сергей</name>
+    <otch>Петрович</otch>
+    <staz>6 лет</staz>
+  </Voditel>
+  <Voditel>
+    <idv>7</idv>
+    <fam>Миронов</fam>
+    <name>Игорь</name>
+    <otch>Анатольевич</otch>
+    <staz>1 год</staz>
+  </Voditel>
+  <Voditel>
+    <idv>8</idv>
+    <fam>Крылов</fam>
+    <name>Максим</name>
+    <otch>Витальевич</otch>
+    <staz>8 лет</staz>
+  </Voditel>
+  <Voditel>
+    <idv>9</idv>
+    <fam>Логинов</fam>
+    <name>Артем</name>
+    <otch>Семенович</otch>
+    <staz>3 года</staz>
+  </Voditel>
+</Voditels>

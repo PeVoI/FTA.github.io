@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Marshruts>
+  <marshrut>
+    <id>1</id>
+    <nasvanie>Москва</nasvanie>
+    <dal>1035км</dal>
+    <days>2</days>
+    <cash>13000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>2</id>
+    <nasvanie>Санкт-Петербург</nasvanie>
+    <dal>1200км</dal>
+    <days>3</days>
+    <cash>15000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>3</id>
+    <nasvanie>Екатеринбург</nasvanie>
+    <dal>2000км</dal>
+    <days>5</days>
+    <cash>20000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>4</id>
+    <nasvanie>Казань</nasvanie>
+    <dal>800км</dal>
+    <days>1</days>
+    <cash>10000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>5</id>
+    <nasvanie>Новосибирск</nasvanie>
+    <dal>3000км</dal>
+    <days>7</days>
+    <cash>25000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>6</id>
+    <nasvanie>Ростов-на-Дону</nasvanie>
+    <dal>1500км</dal>
+    <days>4</days>
+    <cash>18000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>7</id>
+    <nasvanie>Владивосток</nasvanie>
+    <dal>5000км</dal>
+    <days>10</days>
+    <cash>30000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>8</id>
+    <nasvanie>Красноярск</nasvanie>
+    <dal>2500км</dal>
+    <days>6</days>
+    <cash>22000 руб.</cash>
+  </marshrut>
+  <marshrut>
+    <id>9</id>
+    <nasvanie>Курск</nasvanie>
+    <dal>1234км</dal>
+    <days>3</days>
+    <cash>11000 руб.</cash>
+  </marshrut>
+</Marshruts>

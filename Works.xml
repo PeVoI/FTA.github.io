@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Works>
+	<Work>
+		<id>1</id>
+		<idv>3</idv>
+		<otpr>12.05.23</otpr>
+		<vozvr>18.05.23</vozvr>
+		<prem>3000 руб.</prem>
+	</Work>
+	<Work>
+		<id>2</id>
+		<idv>7</idv>
+		<otpr>15.05.23</otpr>
+		<vozvr>22.05.23</vozvr>
+		<prem>2500 руб.</prem>
+	</Work>
+	<Work>
+		<id>3</id>
+		<idv>5</idv>
+		<otpr>20.05.23</otpr>
+		<vozvr>30.05.23</vozvr>
+		<prem>3500 руб.</prem>
+	</Work>
+	<Work>
+		<id>4</id>
+		<idv>2</idv>
+		<otpr>01.06.23</otpr>
+		<vozvr>05.06.23</vozvr>
+		<prem>4000 руб.</prem>
+	</Work>
+	<Work>
+		<id>5</id>
+		<idv>8</idv>
+		<otpr>02.06.23</otpr>
+		<vozvr>16.06.23</vozvr>
+		<prem>3200 руб.</prem>
+	</Work>
+	<Work>
+		<id>6</id>
+		<idv>4</idv>
+		<otpr>10.06.23</otpr>
+		<vozvr>17.06.23</vozvr>
+		<prem>2800 руб.</prem>
+	</Work>
+	<Work>
+		<id>7</id>
+		<idv>1</idv>
+		<otpr>18.06.23</otpr>
+		<vozvr>13.07.23</vozvr>
+		<prem>3300 руб.</prem>
+	</Work>
+	<Work>
+		<id>8</id>
+		<idv>6</idv>
+		<otpr>22.06.23</otpr>
+		<vozvr>08.07.23</vozvr>
+		<prem>2700 руб.</prem>
+	</Work>
+</Works>
